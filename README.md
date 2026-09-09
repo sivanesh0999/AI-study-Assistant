@@ -62,8 +62,8 @@ Follow these step-by-step instructions to clone, setup, and run the project loca
 ### Step 1: Clone the Repository
 Open your terminal/command prompt and run:
 ```bash
-git clone https://github.com/Vishal-aiuser/AI-Learning-and-Study-Assistant.git
-cd AI-Learning-and-Study-Assistant
+git clone https://github.com/sivanesh0999/AI-study-Assistant.git
+cd AI-study-Assistant
 ```
 
 
